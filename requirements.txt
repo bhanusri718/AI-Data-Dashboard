@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+requests==2.31.0   # For Hugging Face API calls
+python-dotenv==1.0.1  # (optional) for storing API key
